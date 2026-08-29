@@ -32,7 +32,7 @@ O projeto foi atualizado para funcionar perfeitamente com ambientes modernos (**
 
 ### Passo 1: Acessar o Diretório do Projeto
 ```bash
-cd /home/ixcsoft/Documentos/Praticas/TournamenterApp
+cd /TournamenterApp
 ```
 
 ### Passo 2: Instalar as Dependências
